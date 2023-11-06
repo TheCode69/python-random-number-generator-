@@ -2,7 +2,7 @@
                                                                                                                                                       
 Certainly! Here's an explanation of each line of code:                                                                                                                              
                                                       
-1. `import random`: This line imports the `random` module in Python. Modules are files containing Python definitions and statements. The `random` module provides various functions for generating random numbers and performing random selections.                         
+1. `import random`: This line imports the `random` module in Python. Modules are files containing Python definitions and statements. The `random` module provides various functions for generating random numbers and performing random selections.                              
 
 2. `random_number = random.randint(1, 100)`: In this line, the `randint(a, b)` function from the `random` module is used to generate a random integer. The `randint()` function takes two arguments, `a` and `b`, and returns a random integer `N` such that `a <= N <= b`. In this case, it generates a random integer between 1 and 100 (inclusive) and assigns it to the variable `random_number`.
 
