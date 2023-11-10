@@ -1,4 +1,4 @@
-cccccccccccccccc                                             # python-random-number-generator-                                                                                                                                
+ccccccccccccccccccccccccccccccccccccccccccccccccccccc                                             # python-random-number-generator-                                                                                                                                
                                ccccccccccccccccccccccccccccccccccccccc                                                                                                                              
 Certainly! Here's an explanation of each line of code:                                                                                                                              
                                                       
