@@ -1,4 +1,4 @@
-                  # python-random-number-generator-                                                                                                       
+                  # python-random-number-generator-                                                                                                           
 Certainly! Here's an explanation of each line of code:                                                                                                                                                          
 1. `import random`: This line imports the `random` module in Python. Modules are files containing Python definitions and statements. The `random` module provides various functions for generating random numbers and performing random selections.                              
 
