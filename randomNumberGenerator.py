@@ -4,3 +4,4 @@ import random
 random_number = random.randint(1, 100)
 #prints the random number as instructed.
 print("Random Number:", random_number)
+    
